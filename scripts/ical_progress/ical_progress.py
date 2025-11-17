@@ -11,7 +11,10 @@ import time
 ICAL_URL = "https://ical.example"
 TIMEZONE = tz.gettz("Your/TimeZone") #e.g. Europe/Berlin
 
-# Uncomment the following variable & function, uncomment the arrow import and switch the "now"-variable for checking if the script collects the right data
+# Uncomment the following variable & function, 
+# uncomment the arrow import and 
+# switch the "now"-variable for checking if the script
+# collects the right data
 
 #sim_time = datetime(1999, 01, 01, 01, 01)
 
