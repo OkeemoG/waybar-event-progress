@@ -1,4 +1,4 @@
-#!/home/local/.config/waybar/scripts/venv/bin/python
+#!/home/<user>/.config/waybar/scripts/venv/bin/python
 
 import requests
 from ics import Calendar
