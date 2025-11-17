@@ -13,6 +13,10 @@ The script:
 4. Builds a simple text-based progress bar.  
 5. Outputs the information as JSON to Waybar.
 
+## Screenshot
+![Progress Example](progress.png)
+
+
 ## Installation
 
 This project uses a Python virtual environment to keep dependencies isolated.  
